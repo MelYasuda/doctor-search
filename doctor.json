@@ -1,0 +1,4555 @@
+{
+  "meta": {
+    "data_type": "array",
+    "item_type": "Doctor",
+    "total": 5,
+    "count": 5,
+    "skip": 0,
+    "limit": 10
+  },
+  "data": [
+    {
+      "practices": [
+        {
+          "location_slug": "wa-seattle",
+          "lat": 47.70003,
+          "lon": -122.32667,
+          "uid": "af54f3204abdcde86301ca680573ac9d",
+          "name": "Northwest Asthma & Allergy Center",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "aetna-aetnachoiceposii",
+            "cigna-cignahmo",
+            "cigna-cignappo",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "aetna-aetnasignatureadministratorsppo",
+            "bcbsbluecard-bcbsbluecardppo",
+            "cigna-cignaopenaccessplus",
+            "providencehealthsystem-providencepersonaloption",
+            "firstchoice-firstchoice",
+            "multiplan-phcsppo",
+            "multiplan-multiplanppo",
+            "bridgespan-bridgespanhix",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "medicare-medicare",
+            "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "odshealthplan-odsnetwork",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo",
+            "firsthealthcoventryhealthcare-firsthealthppo",
+            "grouphealthcooperative-grouphealthcoopalliantplusconnect",
+            "grouphealthcooperative-grouphealthcoopcore"
+          ],
+          "visit_address": {
+            "city": "Seattle",
+            "lat": 47.70003,
+            "lon": -122.32667,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "9725 3rd Ave NE",
+            "street2": "Ste 500",
+            "zip": "98115"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "2065271200",
+              "type": "business_landline"
+            },
+            {
+              "number": "2065272514",
+              "type": "business_fax"
+            },
+            {
+              "number": "2065271200",
+              "type": "landline"
+            },
+            {
+              "number": "2065272514",
+              "type": "fax"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        },
+        {
+          "location_slug": "wa-tacoma",
+          "lat": 47.2419,
+          "lon": -122.48138,
+          "uid": "dada81e053fd37294475d030313c7303",
+          "name": "Arthur Vegh, MD",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "firstchoice-firstchoice",
+            "providencehealthsystem-providencepersonaloption",
+            "multiplan-multiplanppo",
+            "bcbsbluecard-bcbsbluecardppo",
+            "aetna-aetnasignatureadministratorsppo",
+            "cigna-cignahmo",
+            "cigna-cignappo",
+            "cigna-cignaopenaccessplus",
+            "aetna-aetnachoiceposii",
+            "multiplan-phcsppo",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "bridgespan-bridgespanhix",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "odshealthplan-odsnetwork",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo",
+            "firsthealthcoventryhealthcare-firsthealthppo"
+          ],
+          "visit_address": {
+            "city": "Tacoma",
+            "lat": 47.2419,
+            "lon": -122.48138,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "1901 S Union Ave",
+            "street2": "Ste B6010",
+            "zip": "98405"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "2533834721",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        },
+        {
+          "location_slug": "wa-issaquah",
+          "lat": 47.541791,
+          "lon": -122.043255,
+          "uid": "95d6bf6cdd248dfc2f090fe61976daf8",
+          "name": "Paul Williams, MD",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "providencehealthsystem-providencepersonaloption",
+            "firstchoice-firstchoice",
+            "blueshieldofcalifornia-blueshieldcabasicepobronzelevelhix",
+            "blueshieldofcalifornia-blueshieldcabasicppobronzelevelhix",
+            "bridgespan-bridgespanhix",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "medicare-medicare",
+            "aetna-aetnamdbronzesilverandgoldhmo",
+            "odshealthplan-odsnetwork"
+          ],
+          "visit_address": {
+            "city": "Issaquah",
+            "lat": 47.541791,
+            "lon": -122.043255,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "450 NW Gilman Blvd",
+            "street2": "Ste 204",
+            "zip": "98027"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "4254531772",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        },
+        {
+          "location_slug": "wa-seattle",
+          "lat": 47.65064,
+          "lon": -122.309659,
+          "uid": "87146b2b3ef9824199d3c0edf797046e",
+          "name": "Uw Medicine",
+          "website": "http://www.uwmedicine.org/",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "bcbsbluecard-bcbsbluecardppo",
+            "aetna-aetnasignatureadministratorsppo",
+            "firstchoice-firstchoice",
+            "aetna-aetnachoiceposii",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "providencehealthsystem-providencepersonaloption",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo",
+            "firsthealthcoventryhealthcare-firsthealthppo",
+            "grouphealthcooperative-grouphealthcoopalliantplusconnect",
+            "grouphealthcooperative-grouphealthcoopcore"
+          ],
+          "visit_address": {
+            "city": "Seattle",
+            "lat": 47.65064,
+            "lon": -122.309659,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "1959 NE Pacific St",
+            "zip": "98195"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "2065984377",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        },
+        {
+          "location_slug": "wa-renton",
+          "lat": 47.441809,
+          "lon": -122.233824,
+          "uid": "9fa4114e520adfd6fb35e25cc61d6d0b",
+          "name": "Northwest Asthma & Allergy Center",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "providencehealthsystem-providencepersonaloption",
+            "aetna-aetnasignatureadministratorsppo",
+            "cigna-cignahmo",
+            "bcbsbluecard-bcbsbluecardppo",
+            "cigna-cignappo",
+            "cigna-cignaopenaccessplus",
+            "aetna-aetnachoiceposii",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "firstchoice-firstchoice",
+            "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "odshealthplan-odsnetwork",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo"
+          ],
+          "visit_address": {
+            "city": "Renton",
+            "lat": 47.441809,
+            "lon": -122.233824,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "1412 SW 43rd St",
+            "street2": "Ste 210",
+            "zip": "98057"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "2065271200",
+              "type": "business_landline"
+            },
+            {
+              "number": "2065230724",
+              "type": "business_fax"
+            },
+            {
+              "number": "4252351716",
+              "type": "landline"
+            },
+            {
+              "number": "4252775479",
+              "type": "fax"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        },
+        {
+          "location_slug": "wa-redmond",
+          "lat": 47.69379,
+          "lon": -122.03683,
+          "uid": "b0bffdae8ec2e54676e0bf8684e79739",
+          "name": "Trever Burnett, MD",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "aetna-aetnachoiceposii",
+            "providencehealthsystem-providencepersonaloption",
+            "bcbsbluecard-bcbsbluecardppo",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "firstchoice-firstchoice",
+            "cigna-cignappo",
+            "cigna-cignaopenaccessplus",
+            "cigna-cignahmo",
+            "bridgespan-bridgespanhix",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "medicare-medicare",
+            "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "odshealthplan-odsnetwork",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo"
+          ],
+          "visit_address": {
+            "city": "Redmond",
+            "lat": 47.69379,
+            "lon": -122.03683,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "22635 NE Marketplace Dr",
+            "street2": "Ste 110",
+            "zip": "98053"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "2065272577",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "profile": {
+        "first_name": "Thao",
+        "middle_name": "N",
+        "last_name": "Tran",
+        "slug": "thao-tran-md-2",
+        "title": "MD",
+        "image_url": "https://asset1.betterdoctor.com/assets/general_doctor_female.png",
+        "gender": "female",
+        "languages": [
+          {
+            "name": "English",
+            "code": "en"
+          }
+        ],
+        "bio": "Dr. Thao Tran, MD--specialist in internal medicine, otolaryngic allergy, allergy & immunology allergy, and internal medicine allergy & immunology--currently sees patients in Renton, Washington, Seattle, Washington, Redmond, Washington, Richland, Washington, and Everett, Washington.\n\nDr. Tran is licensed to practice medicine at Washington.\n\nIn addition to having active medical licenses, Dr. Tran has successfully passed a background check including a medical license verification (active) and screening for malpractice history (none found)."
+      },
+      "ratings": [],
+      "insurances": [
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignahmo",
+            "name": "CIGNA HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnasignatureadministratorsppo",
+            "name": "Aetna Signature Administrators PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthservices",
+            "name": "Providence Health  Services"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoicehealth",
+            "name": "First Choice Health"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "multiplan-phcsppo",
+            "name": "PHCS PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "multiplan-multiplanppo",
+            "name": "Multiplan PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bridgespan-bridgespanhix",
+            "name": "Bridgespan - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bridgespan",
+            "name": "Cambia Health Solutions"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-premeraheritagesignaturehix",
+            "name": "Premera Heritage Signature - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-lifewiseconnecthix",
+            "name": "LifeWise Connect - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "medicare-medicare",
+            "name": "Medicare",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "medicare",
+            "name": "Medicare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "name": "Regence WA Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "odshealthplan-odsnetwork",
+            "name": "ODS Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "odshealthplan",
+            "name": "ODS Health Plan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritageheritageplus1",
+            "name": "Premera Heritage  Heritage Plus 1",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeralifewiseconnect",
+            "name": "Premera LifeWise Connect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+            "name": "First Health PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "grouphealthcooperative-grouphealthcoopalliantplusconnect",
+            "name": "Group Health Coop Alliant PlusConnect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "grouphealthcoop",
+            "name": "Group Health Coop"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "grouphealthcooperative-grouphealthcoopcore",
+            "name": "Group Health Coop Core",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "grouphealthcoop",
+            "name": "Group Health Coop"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoicehealth",
+            "name": "First Choice Health"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthservices",
+            "name": "Providence Health  Services"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "multiplan-multiplanppo",
+            "name": "Multiplan PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnasignatureadministratorsppo",
+            "name": "Aetna Signature Administrators PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignahmo",
+            "name": "CIGNA HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "multiplan-phcsppo",
+            "name": "PHCS PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bridgespan-bridgespanhix",
+            "name": "Bridgespan - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bridgespan",
+            "name": "Cambia Health Solutions"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-premeraheritagesignaturehix",
+            "name": "Premera Heritage Signature - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-lifewiseconnecthix",
+            "name": "LifeWise Connect - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "name": "Regence WA Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "odshealthplan-odsnetwork",
+            "name": "ODS Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "odshealthplan",
+            "name": "ODS Health Plan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritageheritageplus1",
+            "name": "Premera Heritage  Heritage Plus 1",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeralifewiseconnect",
+            "name": "Premera LifeWise Connect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+            "name": "First Health PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthservices",
+            "name": "Providence Health  Services"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoicehealth",
+            "name": "First Choice Health"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "blueshieldofcalifornia-blueshieldcabasicepobronzelevelhix",
+            "name": "Basic EPO - Bronze level HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "blueshieldofcalifornia",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "blueshieldofcalifornia-blueshieldcabasicppobronzelevelhix",
+            "name": "Basic PPO - Bronze level HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "blueshieldofcalifornia",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bridgespan-bridgespanhix",
+            "name": "Bridgespan - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bridgespan",
+            "name": "Cambia Health Solutions"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-premeraheritagesignaturehix",
+            "name": "Premera Heritage Signature - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-lifewiseconnecthix",
+            "name": "LifeWise Connect - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "medicare-medicare",
+            "name": "Medicare",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "medicare",
+            "name": "Medicare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamdbronzesilverandgoldhmo",
+            "name": "MD Bronze Silver  Gold - HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "odshealthplan-odsnetwork",
+            "name": "ODS Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "odshealthplan",
+            "name": "ODS Health Plan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnasignatureadministratorsppo",
+            "name": "Aetna Signature Administrators PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoicehealth",
+            "name": "First Choice Health"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthservices",
+            "name": "Providence Health  Services"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritageheritageplus1",
+            "name": "Premera Heritage  Heritage Plus 1",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeralifewiseconnect",
+            "name": "Premera LifeWise Connect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+            "name": "First Health PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "grouphealthcooperative-grouphealthcoopalliantplusconnect",
+            "name": "Group Health Coop Alliant PlusConnect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "grouphealthcoop",
+            "name": "Group Health Coop"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "grouphealthcooperative-grouphealthcoopcore",
+            "name": "Group Health Coop Core",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "grouphealthcoop",
+            "name": "Group Health Coop"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthservices",
+            "name": "Providence Health  Services"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnasignatureadministratorsppo",
+            "name": "Aetna Signature Administrators PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignahmo",
+            "name": "CIGNA HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoicehealth",
+            "name": "First Choice Health"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "name": "Regence WA Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "odshealthplan-odsnetwork",
+            "name": "ODS Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "odshealthplan",
+            "name": "ODS Health Plan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritageheritageplus1",
+            "name": "Premera Heritage  Heritage Plus 1",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeralifewiseconnect",
+            "name": "Premera LifeWise Connect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthservices",
+            "name": "Providence Health  Services"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoicehealth",
+            "name": "First Choice Health"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignahmo",
+            "name": "CIGNA HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bridgespan-bridgespanhix",
+            "name": "Bridgespan - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bridgespan",
+            "name": "Cambia Health Solutions"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-premeraheritagesignaturehix",
+            "name": "Premera Heritage Signature - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-lifewiseconnecthix",
+            "name": "LifeWise Connect - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "medicare-medicare",
+            "name": "Medicare",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "medicare",
+            "name": "Medicare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "name": "Regence WA Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "odshealthplan-odsnetwork",
+            "name": "ODS Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "odshealthplan",
+            "name": "ODS Health Plan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        }
+      ],
+      "specialties": [
+        {
+          "uid": "allergist",
+          "name": "Allergy & Immunology",
+          "description": "Specializes in treatment of allergies and the immune system.",
+          "category": "medical",
+          "actor": "Allergist",
+          "actors": "Allergists"
+        }
+      ],
+      "licenses": [
+        {
+          "number": "MD00044415",
+          "state": "WA"
+        }
+      ],
+      "uid": "562b878c9f4cc5c7fe86c2920a9f12d3",
+      "npi": "1346230117"
+    },
+    {
+      "practices": [
+        {
+          "location_slug": "ca-los-gatos",
+          "lat": 37.24694,
+          "lon": -121.95086,
+          "uid": "f75fc552c5ae030b8cba3de898b81a84",
+          "name": "Primary Care Holistic Medical Clinic",
+          "website": "http://www.tobeprimarycare.com/",
+          "description": "We, at To be Primary Care Holistic Medical Clinic, take a pride at helping patients who haven’t been able to regain their health through traditional medical methods.  Whether you are battling chronic illnesses such as hashimoto, headache, allergies or gut issues, or you are not feeling as healthy as you used to be, we are here to help you.\n\nOur approach is different. Not only that we will take a hard look at your symptoms, but we will also make sure that we understand your mental, emotional and nutritional well being, as all of them play an important role in your overall health.  Based on our evaluation, we will provide you with personalized treatment plan that will work just for you.  Together, as a team, we will work with you to regain your health",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "healthnet-healthnetcaindividualfamilyppo",
+            "healthnet-healthnetcahmowholecarenetwork",
+            "multiplan-phcsppo",
+            "bluecrosscalifornia-bluecrosscappo",
+            "cigna-cignahmo",
+            "bcbsbluecard-bcbsbluecardppo",
+            "bluecrosscalifornia-bluecrosscaadvantageppopreferreddirectaccessplus",
+            "cigna-cignalocalplus",
+            "healthnet-healthnetcacoveredcaliforniapposmallgroup",
+            "bluecrosscalifornia-bluecrosscacaliforniacarehmo",
+            "bluecrosscalifornia-bluecrosscapathwayxtiereddirectaccess",
+            "aetna-aetnachoiceposii",
+            "bluecrosscalifornia-bluecrosscaselectplushmo",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "bluecrosscalifornia-bluecrosscapathwayxppodirectaccess",
+            "cigna-cignaopenaccessplus",
+            "uhcwestformerlypacificare-pacificarehmo",
+            "bluecrosscalifornia-bluecrosscapowerselecthmo",
+            "bluecrosscalifornia-bluecrosscaselectppo",
+            "aetna-aetnahmodeductibleplancamembersonly",
+            "healthnet-healthnetcalargegroupppo",
+            "multiplan-phcsppokaiser",
+            "cigna-cignappo",
+            "healthnet-healthnetcabluegoldhmo",
+            "healthnet-healthnetcahmoemployergroup",
+            "aetna-aetnahmo",
+            "aetna-aetnasignatureadministratorsppo",
+            "blueshieldofcalifornia-blueshieldcaaccessplushmo",
+            "blueshieldofcalifornia-blueshieldcaaccessplussavenet",
+            "blueshieldofcalifornia-blueshieldcaenhancedexclusivehmoforsmallbusiness",
+            "blueshieldofcalifornia-blueshieldcalocalaccessplushmo",
+            "blueshieldofcalifornia-blueshieldcappo",
+            "blueshieldofcalifornia-bscatrioacohmo",
+            "premerabluecross-premeraheritagesignature",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo"
+          ],
+          "visit_address": {
+            "city": "Los Gatos",
+            "lat": 37.24694,
+            "lon": -121.95086,
+            "state": "CA",
+            "state_long": "California",
+            "street": "15215 National Ave",
+            "street2": "Ste 104",
+            "zip": "95032"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "4084023607",
+              "type": "landline"
+            },
+            {
+              "number": "4088274625",
+              "type": "fax"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        },
+        {
+          "location_slug": "wa-seattle",
+          "lat": 47.65136,
+          "lon": -122.309238,
+          "uid": "4d66ce34e38cba28b61a1bc7e26df8a0",
+          "name": "Emily Hartford, MD",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "firstchoice-firstchoice",
+            "cigna-cignahmo",
+            "cigna-cignaopenaccessplus",
+            "cigna-cignappo",
+            "bcbsbluecard-bcbsbluecardppo",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "providencehealthsystem-providencepersonaloption",
+            "aetna-aetnasignatureadministratorsppo",
+            "multiplan-multiplanppo",
+            "aetna-aetnachoiceposii",
+            "bridgespan-bridgespanhix",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "healthnet-healthnetindividualfamilyppohix",
+            "medicaid-medicaid",
+            "medicare-medicare",
+            "aetna-aetnamdbronzesilverandgoldhmo",
+            "healthnet-bluegoldhmo",
+            "healthnet-hmoexcelcaresilvernetwork",
+            "healthnet-hmoexcelcaresilvernetworkmedicarecob",
+            "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "odshealthplan-odsnetwork",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo",
+            "firsthealthcoventryhealthcare-firsthealthppo",
+            "grouphealthcooperative-grouphealthcoopalliantplusconnect",
+            "grouphealthcooperative-grouphealthcoopcore"
+          ],
+          "visit_address": {
+            "city": "Seattle",
+            "lat": 47.65136,
+            "lon": -122.309238,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "1959 NE Pacific St",
+            "zip": "98195"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "2065432470",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "school": "UC Davis School of Medicine",
+          "degree": "MD"
+        }
+      ],
+      "profile": {
+        "first_name": "Thao",
+        "middle_name": "Uyen",
+        "last_name": "Nguyen",
+        "slug": "thao-nguyen-10",
+        "title": "MD",
+        "image_url": "https://asset4.betterdoctor.com/images/578000932157ab0516002bf5-2_thumbnail.jpg",
+        "gender": "female",
+        "languages": [
+          {
+            "name": "English",
+            "code": "en"
+          }
+        ],
+        "bio": "Dr. Thao Nguyen chose medicine as her profession after experiencing a bout of illness that mystified the top doctors at a famous east coast hospital. Dr. Thao felt alone and desperate being treated in a medical system that seemed mechanical in its approach to her care. She felt her doctors probed and prodded but never stopped long enough to understand her symptoms or fears. She grew hopeless as each successive test result returned with no answers and it was apparent her doctors were hopeless too. Through this experience, Dr. Thao promised to never give up on her patients, to always look for another way. This promise would launch her onto a path of exploration to discover that we are more than flesh and bone.\n\nBy conventional measures, Dr. Thao excelled in her medical training. She graduated with honors from UC Davis School of Medicine, and served as chief resident at the prestigious University of California, San Francisco.   However, she became deeply saddened as she sat with patients who were afflicted with chronic illnesses. She often felt, “my patients are ‘stuck’ and the medications I give them imprison them more!”\n\nAt about this time Dr. Thao met two esteemed healers, Donna Eden and Scott Walker. They showed her how to work with the human energy vital force, and our emotional network. Physical symptoms sometimes dissolved in minutes using their healing methods.\n\nThe people who taught Dr. Thao the most, however, were her patients. They showed her how each person is unique in their expression of illnesses and thus different in our responses to treatment. Dr. Thao realized, there is no magic cure-all pill. Her patients taught her to be more open-minded when helping them heal and reminded her of the sense of wholeness. They demonstrated how powerful the mind can be and how it can affect the body.\n\nSince 2001, Dr. Thao has worked as a primary care physician in a variety of settings: From the slums of Kenya to the inner city of San Francisco; from private practice to Indian Health Services. She also received additional training in Functional Medicine and Ayurveda at the Scripps Institute.\n\nToday, she uses medications when it is appropriate. She also incorporates foods as medicine, acupressure, and low level laser to treat a wide range of illnesses in family medicine. She has special interests in skin rejuvenation, autoimmune diseases and mood disorders.\n\nDr. Thao’s favorite meal is soup and she loves to read mystery novels. During her time off, you might find her doing pilates and yoga in Los Gatos"
+      },
+      "ratings": [],
+      "insurances": [
+        {
+          "insurance_plan": {
+            "uid": "healthnet-healthnetcaindividualfamilyppo",
+            "name": "Health Net CA Individual  Family PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "healthnet",
+            "name": "Health Net"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "healthnet-healthnetcahmowholecarenetwork",
+            "name": "Health Net CA HMO Whole Care Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "healthnet",
+            "name": "Health Net"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "multiplan-phcsppo",
+            "name": "PHCS PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bluecrosscalifornia-bluecrosscappo",
+            "name": "Blue Cross CA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignahmo",
+            "name": "CIGNA HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bluecrosscalifornia-bluecrosscaadvantageppopreferreddirectaccessplus",
+            "name": "Blue Cross CA Advantage PPO Preferred DirectAccess Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignalocalplus",
+            "name": "CIGNA LocalPlus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "healthnet-healthnetcacoveredcaliforniapposmallgroup",
+            "name": "Health Net CA Covered California PPO - Small Group",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "healthnet",
+            "name": "Health Net"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bluecrosscalifornia-bluecrosscacaliforniacarehmo",
+            "name": "Blue Cross CA CaliforniaCare HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bluecrosscalifornia-bluecrosscapathwayxtiereddirectaccess",
+            "name": "Blue Cross CA Pathway X Tiered Direct Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bluecrosscalifornia-bluecrosscaselectplushmo",
+            "name": "Blue Cross CA Select Plus HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bluecrosscalifornia-bluecrosscapathwayxppodirectaccess",
+            "name": "Blue Cross CA Pathway X PPO Direct Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "uhcwestformerlypacificare-pacificarehmo",
+            "name": "Pacificare HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bluecrosscalifornia-bluecrosscapowerselecthmo",
+            "name": "Blue Cross CA PowerSelect HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bluecrosscalifornia-bluecrosscaselectppo",
+            "name": "Blue Cross CA Select PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnahmodeductibleplancamembersonly",
+            "name": "Aetna HMO Deductible Plan CA members only",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "healthnet-healthnetcalargegroupppo",
+            "name": "Health Net CA Large Group PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "healthnet",
+            "name": "Health Net"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "multiplan-phcsppokaiser",
+            "name": "PHCS PPO - Kaiser",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "healthnet-healthnetcabluegoldhmo",
+            "name": "Health Net CA Blue  Gold HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "healthnet",
+            "name": "Health Net"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "healthnet-healthnetcahmoemployergroup",
+            "name": "Health Net CA HMO Employer Group",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "healthnet",
+            "name": "Health Net"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnahmo",
+            "name": "Aetna HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnasignatureadministratorsppo",
+            "name": "Aetna Signature Administrators PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "blueshieldofcalifornia-blueshieldcaaccessplushmo",
+            "name": "Blue Shield CA Access Plus HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "blueshieldofcalifornia-blueshieldcaaccessplussavenet",
+            "name": "Blue Shield CA Access Plus Savenet",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "blueshieldofcalifornia-blueshieldcaenhancedexclusivehmoforsmallbusiness",
+            "name": "Blue Shield CA Enhanced Exclusive HMO for Small Business",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "blueshieldofcalifornia-blueshieldcalocalaccessplushmo",
+            "name": "Blue Shield CA Local Access Plus HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "blueshieldofcalifornia-blueshieldcappo",
+            "name": "Blue Shield CA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "blueshieldofcalifornia-bscatrioacohmo",
+            "name": "BS CA Trio ACO HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoicehealth",
+            "name": "First Choice Health"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignahmo",
+            "name": "CIGNA HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthservices",
+            "name": "Providence Health  Services"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnasignatureadministratorsppo",
+            "name": "Aetna Signature Administrators PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "multiplan-multiplanppo",
+            "name": "Multiplan PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bridgespan-bridgespanhix",
+            "name": "Bridgespan - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bridgespan",
+            "name": "Cambia Health Solutions"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-premeraheritagesignaturehix",
+            "name": "Premera Heritage Signature - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-lifewiseconnecthix",
+            "name": "LifeWise Connect - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "healthnet-healthnetindividualfamilyppohix",
+            "name": "Health Net Individual  Family - PPO  HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "healthnet",
+            "name": "HealthNet"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "medicaid-medicaid",
+            "name": "Medicaid",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "medicaid",
+            "name": "Medicaid"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "medicare-medicare",
+            "name": "Medicare",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "medicare",
+            "name": "Medicare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamdbronzesilverandgoldhmo",
+            "name": "MD Bronze Silver  Gold - HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "healthnet-bluegoldhmo",
+            "name": "Blue  Gold - HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "healthnet",
+            "name": "HealthNet"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "healthnet-hmoexcelcaresilvernetwork",
+            "name": "HMO - ExcelCare  Silver Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "healthnet",
+            "name": "HealthNet"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "healthnet-hmoexcelcaresilvernetworkmedicarecob",
+            "name": "HMO - ExcelCare  Silver Network Medicare COB",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "healthnet",
+            "name": "HealthNet"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "name": "Regence WA Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "odshealthplan-odsnetwork",
+            "name": "ODS Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "odshealthplan",
+            "name": "ODS Health Plan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritageheritageplus1",
+            "name": "Premera Heritage  Heritage Plus 1",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeralifewiseconnect",
+            "name": "Premera LifeWise Connect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+            "name": "First Health PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "grouphealthcooperative-grouphealthcoopalliantplusconnect",
+            "name": "Group Health Coop Alliant PlusConnect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "grouphealthcoop",
+            "name": "Group Health Coop"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "grouphealthcooperative-grouphealthcoopcore",
+            "name": "Group Health Coop Core",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "grouphealthcoop",
+            "name": "Group Health Coop"
+          }
+        }
+      ],
+      "specialties": [
+        {
+          "uid": "internist",
+          "name": "Internal Medicine",
+          "description": "Specializes in common illnesses and complex medical problems.",
+          "category": "medical",
+          "actor": "Internist",
+          "actors": "Internists"
+        }
+      ],
+      "licenses": [
+        {
+          "number": "ML 60092968",
+          "state": "WA"
+        }
+      ],
+      "uid": "129622ba12a48a44714bbc2d8329d82d",
+      "npi": "1255560017"
+    },
+    {
+      "practices": [
+        {
+          "location_slug": "wa-seattle",
+          "lat": 47.66742,
+          "lon": -122.37961,
+          "uid": "73f7dc7913a1c51b9c8122dc3445d72a",
+          "name": "Lan Tran, MD",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "bcbsbluecard-bcbsbluecardppo",
+            "aetna-aetnachoiceposii",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect"
+          ],
+          "visit_address": {
+            "city": "Seattle",
+            "lat": 47.66742,
+            "lon": -122.37961,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "5300 Tallman Ave NW",
+            "zip": "98107"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "2067822700",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        },
+        {
+          "location_slug": "wa-seattle",
+          "lat": 47.610099,
+          "lon": -122.32214,
+          "uid": "896ff591084fec67866ff6aeb51cff7a",
+          "name": "Lan Tran, MD",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "bridgespan-bridgespanhix",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "medicaid-medicaid",
+            "medicare-medicare"
+          ],
+          "visit_address": {
+            "city": "Seattle",
+            "lat": 47.610099,
+            "lon": -122.32214,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "1229 Madison St",
+            "zip": "98104"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "2063862101",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        },
+        {
+          "location_slug": "wa-seattle",
+          "lat": 47.610099,
+          "lon": -122.32214,
+          "uid": "f754abcc8632c4eb40d6788d7d9a6c8c",
+          "name": "Lan Tran, MD",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "cigna-cignappo",
+            "multiplan-phcsppo",
+            "bcbsbluecard-bcbsbluecardppo",
+            "cigna-cignaopenaccessplus",
+            "providencehealthsystem-providencepersonaloption",
+            "cigna-cignahmo",
+            "multiplan-multiplanppo",
+            "firstchoice-firstchoice",
+            "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcoptionsppo"
+          ],
+          "visit_address": {
+            "city": "Seattle",
+            "lat": 47.610099,
+            "lon": -122.32214,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "1229 Madison St",
+            "street2": "Ste 750",
+            "zip": "98104"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "2063862101",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "profile": {
+        "first_name": "Lan",
+        "middle_name": "Thao",
+        "last_name": "Tran",
+        "slug": "lan-tran-2",
+        "title": "MD",
+        "image_url": "https://asset2.betterdoctor.com/assets/general_doctor_female.png",
+        "gender": "female",
+        "languages": [
+          {
+            "name": "English",
+            "code": "en"
+          }
+        ],
+        "bio": "Dr. Lan Tran, MD, specialist in maternal & fetal medicine and obstetrics & gynecology, currently practices medicine at Seattle, Washington, Spokane, Washington, Kenmore, Washington, and Los angeles, California.\n\nDr. Tran is licensed to treat patients in Washington.\n\nIn addition to having active medical licenses, Dr. Tran has successfully passed a background check including a medical license verification (active) and screening for malpractice history (none found)."
+      },
+      "ratings": [],
+      "insurances": [
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritageheritageplus1",
+            "name": "Premera Heritage  Heritage Plus 1",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeralifewiseconnect",
+            "name": "Premera LifeWise Connect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bridgespan-bridgespanhix",
+            "name": "Bridgespan - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bridgespan",
+            "name": "Cambia Health Solutions"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-premeraheritagesignaturehix",
+            "name": "Premera Heritage Signature - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-lifewiseconnecthix",
+            "name": "LifeWise Connect - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "medicaid-medicaid",
+            "name": "Medicaid",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "medicaid",
+            "name": "Medicaid"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "medicare-medicare",
+            "name": "Medicare",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "medicare",
+            "name": "Medicare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "multiplan-phcsppo",
+            "name": "PHCS PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthservices",
+            "name": "Providence Health  Services"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignahmo",
+            "name": "CIGNA HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "multiplan-multiplanppo",
+            "name": "Multiplan PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoicehealth",
+            "name": "First Choice Health"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "name": "Regence WA Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        }
+      ],
+      "specialties": [
+        {
+          "uid": "maternal-fetal-medicine-obgyn",
+          "name": "Maternal & Fetal Medicine",
+          "description": "Specializes in high-risk pregnancies and pregnancy complications.",
+          "category": "medical",
+          "actor": "Maternal & Fetal OBGYN",
+          "actors": "Maternal & Fetal OBGYNS"
+        }
+      ],
+      "licenses": [
+        {
+          "number": "00042279",
+          "state": "WA"
+        }
+      ],
+      "uid": "485abaa91fc309aa288fcf906c227f0a",
+      "npi": "1750448486"
+    },
+    {
+      "practices": [
+        {
+          "location_slug": "wa-seattle",
+          "lat": 47.60536,
+          "lon": -122.32362,
+          "uid": "392eff477e2d42217d293ca1fb1820dd",
+          "name": "Eye Institute At Harborview",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "bcbsbluecard-bcbsbluecardppo",
+            "aetna-aetnasignatureadministratorsppo",
+            "aetna-aetnachoiceposii",
+            "firstchoice-firstchoice",
+            "providencehealthsystem-providencepersonaloption",
+            "cigna-cignappo",
+            "cigna-cignahmo",
+            "multiplan-multiplanppo",
+            "cigna-cignaopenaccessplus",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "bridgespan-bridgespanhix",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "aetna-aetnamdbronzesilverandgoldhmo",
+            "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "odshealthplan-odsnetwork",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo",
+            "firsthealthcoventryhealthcare-firsthealthppo",
+            "grouphealthcooperative-grouphealthcoopalliantplusconnect",
+            "grouphealthcooperative-grouphealthcoopcore"
+          ],
+          "visit_address": {
+            "city": "Seattle",
+            "lat": 47.60536,
+            "lon": -122.32362,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "908 Jefferson St",
+            "zip": "98104"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "2065205000",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        },
+        {
+          "location_slug": "wa-seattle",
+          "lat": 47.60986,
+          "lon": -122.32774,
+          "uid": "c0a5bfa3d5d987b581e492c1ecc9af44",
+          "name": "Kimberly A Terrill",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "bcbsbluecard-bcbsbluecardppo",
+            "aetna-aetnachoiceposii",
+            "cigna-cignappo",
+            "aetna-aetnasignatureadministratorsppo",
+            "cigna-cignaopenaccessplus",
+            "cigna-cignahmo",
+            "firstchoice-firstchoice",
+            "bridgespan-bridgespanhix",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "medicare-medicare",
+            "medicaid-medicaid",
+            "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "odshealthplan-odsnetwork",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo"
+          ],
+          "visit_address": {
+            "city": "Seattle",
+            "lat": 47.60986,
+            "lon": -122.32774,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "925 Seneca St",
+            "zip": "98101"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "2065836450",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "profile": {
+        "first_name": "Thao",
+        "middle_name": "Phuong H",
+        "last_name": "Le",
+        "slug": "thao-phuong-le",
+        "title": "MD",
+        "image_url": "https://asset2.betterdoctor.com/assets/general_doctor_female.png",
+        "gender": "female",
+        "languages": [
+          {
+            "name": "English",
+            "code": "en"
+          }
+        ],
+        "bio": ""
+      },
+      "ratings": [],
+      "insurances": [
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnasignatureadministratorsppo",
+            "name": "Aetna Signature Administrators PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoicehealth",
+            "name": "First Choice Health"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthservices",
+            "name": "Providence Health  Services"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignahmo",
+            "name": "CIGNA HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "multiplan-multiplanppo",
+            "name": "Multiplan PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bridgespan-bridgespanhix",
+            "name": "Bridgespan - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bridgespan",
+            "name": "Cambia Health Solutions"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-premeraheritagesignaturehix",
+            "name": "Premera Heritage Signature - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-lifewiseconnecthix",
+            "name": "LifeWise Connect - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamdbronzesilverandgoldhmo",
+            "name": "MD Bronze Silver  Gold - HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "name": "Regence WA Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "odshealthplan-odsnetwork",
+            "name": "ODS Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "odshealthplan",
+            "name": "ODS Health Plan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeralifewiseconnect",
+            "name": "Premera LifeWise Connect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+            "name": "First Health PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "grouphealthcooperative-grouphealthcoopalliantplusconnect",
+            "name": "Group Health Coop Alliant PlusConnect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "grouphealthcoop",
+            "name": "Group Health Coop"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "grouphealthcooperative-grouphealthcoopcore",
+            "name": "Group Health Coop Core",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "grouphealthcoop",
+            "name": "Group Health Coop"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnasignatureadministratorsppo",
+            "name": "Aetna Signature Administrators PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignahmo",
+            "name": "CIGNA HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoicehealth",
+            "name": "First Choice Health"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bridgespan-bridgespanhix",
+            "name": "Bridgespan - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bridgespan",
+            "name": "Cambia Health Solutions"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-premeraheritagesignaturehix",
+            "name": "Premera Heritage Signature - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-lifewiseconnecthix",
+            "name": "LifeWise Connect - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecrossblueshield",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "medicare-medicare",
+            "name": "Medicare",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "medicare",
+            "name": "Medicare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "medicaid-medicaid",
+            "name": "Medicaid",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "medicaid",
+            "name": "Medicaid"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "name": "Regence WA Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "odshealthplan-odsnetwork",
+            "name": "ODS Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "odshealthplan",
+            "name": "ODS Health Plan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        }
+      ],
+      "specialties": [],
+      "licenses": [],
+      "uid": "d9f9c026cb6f2b105460961604d7d3f2",
+      "npi": "1578906988"
+    },
+    {
+      "practices": [
+        {
+          "location_slug": "wa-seattle",
+          "lat": 47.59962,
+          "lon": -122.31681,
+          "uid": "1b4f152f32ad6d4b01419d8c7914e818",
+          "name": "Thao T Vuong MD",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "firstchoice-firstchoice",
+            "bcbsbluecard-bcbsbluecardppo",
+            "cigna-cignappo",
+            "aetna-aetnachoiceposii",
+            "aetna-aetnasignatureadministratorsppo",
+            "cigna-cignahmo",
+            "providencehealthsystem-providencepersonaloption",
+            "cigna-cignaopenaccessplus",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo"
+          ],
+          "visit_address": {
+            "city": "Seattle",
+            "lat": 47.59962,
+            "lon": -122.31681,
+            "state": "WA",
+            "state_long": "Washington",
+            "street": "1200 S Jackson St",
+            "street2": "Ste 24",
+            "zip": "98144"
+          },
+          "office_hours": [],
+          "phones": [
+            {
+              "number": "2063294752",
+              "type": "fax"
+            },
+            {
+              "number": "2063291728",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "profile": {
+        "first_name": "Thao",
+        "middle_name": "Thanh",
+        "last_name": "Vuong",
+        "slug": "thao-vuong",
+        "title": "MD",
+        "image_url": "https://asset1.betterdoctor.com/assets/general_doctor_female.png",
+        "gender": "female",
+        "languages": [
+          {
+            "name": "English",
+            "code": "en"
+          }
+        ],
+        "bio": "Dr. Thao Vuong, MD--specialist in general practice--currently sees patients in Seattle, Washington.\n\nDr. Vuong is licensed to practice medicine at Washington.\n\nIn addition to having active medical licenses, Dr. Vuong has been found to hold one or more active medical licenses, and successfully passed a malpractice history screening."
+      },
+      "ratings": [],
+      "insurances": [
+        {
+          "insurance_plan": {
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoicehealth",
+            "name": "First Choice Health"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnasignatureadministratorsppo",
+            "name": "Aetna Signature Administrators PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignahmo",
+            "name": "CIGNA HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthservices",
+            "name": "Providence Health  Services"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regenceblueshieldofwashinton-regencewapreferredprovidernetwork",
+            "name": "Regence WA Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeralifewiseconnect",
+            "name": "Premera LifeWise Connect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbs",
+            "name": "BCBS"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        }
+      ],
+      "specialties": [
+        {
+          "uid": "general-practitioner",
+          "name": "General Practice",
+          "description": "Specializes and treats your total health.",
+          "category": "medical",
+          "actor": "General Practitioner",
+          "actors": "General Practitioners"
+        }
+      ],
+      "claims": [
+        {
+          "hcpcs": "99213",
+          "hcpcs_description": "Office / outpatient visit, established patient, 15 minutes",
+          "service_cnt": 419,
+          "bene_uniq_cnt": 89,
+          "avg_allowed_amt": 75.29,
+          "avg_charge_amt": 98.031026253,
+          "avg_payment_amt": 48.600668258
+        },
+        {
+          "hcpcs": "36415",
+          "hcpcs_description": "Coll venous blood venipuncture",
+          "service_cnt": 51,
+          "bene_uniq_cnt": 42,
+          "avg_allowed_amt": 3,
+          "avg_charge_amt": 30,
+          "avg_payment_amt": 3
+        },
+        {
+          "hcpcs": "99214",
+          "hcpcs_description": "Office / outpatient visit, established patient, 25 minutes",
+          "service_cnt": 35,
+          "bene_uniq_cnt": 32,
+          "avg_allowed_amt": 111.06,
+          "avg_charge_amt": 190.57142857,
+          "avg_payment_amt": 61.097714286
+        }
+      ],
+      "licenses": [
+        {
+          "number": "MD00024983",
+          "state": "WA"
+        }
+      ],
+      "uid": "b4d9309bae508ce46c75f55c6456cae1",
+      "npi": "1386715076"
+    }
+  ]
+}
