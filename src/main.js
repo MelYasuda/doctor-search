@@ -14,15 +14,10 @@ $(document).ready(function() {
 
     promise.then(function(response) {
       let body = JSON.parse(response);
-
-      // for(var i=0; i < body.data.length; i++) {
-      //   let title = body.bikes[i].title;
-      //   $(".list").append("<li>" + title +"</li>");
-      // }
-
-      $(".list").append("<li>" + body.profile.first_name +"</li>");
-
-// .data.profile.first_name
+      for (var i = 0; i < body.data.length; i++)
+      {
+        $(".list").append("<li>" + body.data[i].profile.first_name + " " + body.data[i].profile.last_name + "</li>");
+      }
 
     }, function(error) {
       $('.showErrors').text(`There was an error processing your request: ${error.message}`);
