@@ -18,7 +18,14 @@ $(document).ready(function() {
       if (body.meta.total !== 0) {
         for (var i = 0; i < body.data.length; i++)
         {
-          $(".list").append("<li>" + body.data[i].profile.first_name + " " + body.data[i].profile.last_name + "</li>");
+          let firstName = body.data[i].profile.first_name;
+          let lastName = body.data[i].profile.last_name;
+          let address = for(var j = 0; j < body.data[i].practice.length; j++) {
+            body.data[i].practices[j].visit_address.city;
+          };
+
+
+          $(".list").append("<li>" + firstName + " " + lastName + " " + address + "</li>");
         }
       }
       else {
@@ -42,7 +49,7 @@ $(document).ready(function() {
 
       if (body.meta.total !== 0) {
         for (var i = 0; i < body.data.length; i++){
-          $(".list").append("<li>" + body.data[i].profile.first_name + " " + body.data[i].profile.last_name + "</li>");
+          $(".list").append("<li>" + body.data[i].profile.first_name + " " + body.data[i].profile.last_name);
         }
       } else {
           $(".list").append("Sorry, there's no match for your search.")
