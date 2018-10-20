@@ -64,13 +64,13 @@ $(document).ready(function() {
             $(".list").append(body.data[i].practices[j].visit_address.street + " " + body.data[i].practices[j].visit_address.street2);
             $(".list").append(body.data[i].practices[j].visit_address.city);
             $(".list").append(body.data[i].practices[j].visit_address.state + "</br>");
-            $(".list").append(body.data[i].practices[0].website + "<br>");
-            if(body.data[i].practices[1].accepts_new_patients){
-              $(".list").append("Accept new patients: Yes" + "<br>");
-            } else {
-              $(".list").append("Accept new patients: No" + "<br>");
-            }
             $(".list").append("(#" + body.data[i].practices[j].phones[0].number + ")" + "<br>" + "<br>");
+          }
+          $(".list").append(body.data[i].practices[0].website + "<br>");
+          if(body.data[i].practices[0].accepts_new_patients){
+            $(".list").append("Accept new patients: Yes" + "<br>");
+          } else {
+            $(".list").append("Accept new patients: No" + "<br>");
           }
         }
       }
