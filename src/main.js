@@ -18,14 +18,21 @@ $(document).ready(function() {
       if (body.meta.total !== 0) {
         for (var i = 0; i < body.data.length; i++)
         {
-          let firstName = body.data[i].profile.first_name;
-          let lastName = body.data[i].profile.last_name;
-          let address = for(var j = 0; j < body.data[i].practice.length; j++) {
-            body.data[i].practices[j].visit_address.city;
-          };
+        $(".list").append("<li>" + body.data[i].profile.first_name + " " + body.data[i].profile.last_name + "</li>");
+        $(".list").append("Addresses and Phones" + "<br>");
 
-
-          $(".list").append("<li>" + firstName + " " + lastName + " " + address + "</li>");
+        for(var j = 0; j < body.data[i].practices.length; j++) {
+            $(".list").append(body.data[i].practices[j].visit_address.street + " " + body.data[i].practices[j].visit_address.street2);
+            $(".list").append(body.data[i].practices[j].visit_address.city);
+            $(".list").append(body.data[i].practices[j].visit_address.state + "</br>");
+            $(".list").append(body.data[i].practices[0].website + "<br>");
+            if(body.data[i].practices[1].accepts_new_patients){
+              $(".list").append("Accept new patients: Yes" + "<br>");
+            } else {
+              $(".list").append("Accept new patients: No" + "<br>");
+            }
+            $(".list").append("(#" + body.data[i].practices[j].phones[0].number + ")" + "<br>" + "<br>");
+          }
         }
       }
       else {
@@ -48,12 +55,28 @@ $(document).ready(function() {
       let body = JSON.parse(response);
 
       if (body.meta.total !== 0) {
-        for (var i = 0; i < body.data.length; i++){
-          $(".list").append("<li>" + body.data[i].profile.first_name + " " + body.data[i].profile.last_name);
+        for (var i = 0; i < body.data.length; i++)
+        {
+        $(".list").append("<li>" + body.data[i].profile.first_name + " " + body.data[i].profile.last_name + "</li>");
+        $(".list").append("Addresses and Phones" + "<br>");
+
+        for(var j = 0; j < body.data[i].practices.length; j++) {
+            $(".list").append(body.data[i].practices[j].visit_address.street + " " + body.data[i].practices[j].visit_address.street2);
+            $(".list").append(body.data[i].practices[j].visit_address.city);
+            $(".list").append(body.data[i].practices[j].visit_address.state + "</br>");
+            $(".list").append(body.data[i].practices[0].website + "<br>");
+            if(body.data[i].practices[1].accepts_new_patients){
+              $(".list").append("Accept new patients: Yes" + "<br>");
+            } else {
+              $(".list").append("Accept new patients: No" + "<br>");
+            }
+            $(".list").append("(#" + body.data[i].practices[j].phones[0].number + ")" + "<br>" + "<br>");
+          }
         }
-      } else {
-          $(".list").append("Sorry, there's no match for your search.")
-        }
+      }
+      else {
+        $(".list").append("Sorry, there's no match for your search.");
+      }
 
     }, function(error) {
       $('.showErrors').text(`There was an error processing your request: ${error.message}`);
